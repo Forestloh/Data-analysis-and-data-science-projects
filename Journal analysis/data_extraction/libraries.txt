@@ -1,0 +1,16 @@
+Best libraries for sentiment analysis
+
+Pattern
+- returns polarity from given text (range from highly positive to highly negative)
+
+Vader (From NLTK lib)
+-calculates text sentiment and returns  the probability of a given input sentence to be positive, negative, or neural
+-Understand sentiment of text containing emoticons, slangs, conjunctions, etc. 
+-more for social media
+
+TextBlob
+-returns polarity and subjectivity of a sentence. Polarity range from negative to positive
+
+spaCy
+-fast and easy to use
+
